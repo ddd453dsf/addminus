@@ -1,0 +1,1401 @@
+resStr:{  
+   "links":[  
+      {  
+         "source":20,
+         "target":0,
+         "weight":100
+      },
+      {  
+         "source":39,
+         "target":1,
+         "weight":100
+      },
+      {  
+         "source":120,
+         "target":5,
+         "weight":100
+      },
+      {  
+         "source":68,
+         "target":6,
+         "weight":100
+      },
+      {  
+         "source":22,
+         "target":10,
+         "weight":100
+      },
+      {  
+         "source":52,
+         "target":10,
+         "weight":100
+      },
+      {  
+         "source":60,
+         "target":11,
+         "weight":100
+      },
+      {  
+         "source":54,
+         "target":20,
+         "weight":100
+      },
+      {  
+         "source":47,
+         "target":29,
+         "weight":100
+      },
+      {  
+         "source":24,
+         "target":39,
+         "weight":100
+      },
+      {  
+         "source":40,
+         "target":42,
+         "weight":100
+      },
+      {  
+         "source":68,
+         "target":45,
+         "weight":100
+      },
+      {  
+         "source":48,
+         "target":63,
+         "weight":100
+      },
+      {  
+         "source":57,
+         "target":71,
+         "weight":100
+      },
+      {  
+         "source":40,
+         "target":73,
+         "weight":100
+      },
+      {  
+         "source":142,
+         "target":76,
+         "weight":100
+      },
+      {  
+         "source":133,
+         "target":79,
+         "weight":100
+      },
+      {  
+         "source":122,
+         "target":79,
+         "weight":100
+      },
+      {  
+         "source":84,
+         "target":79,
+         "weight":100
+      },
+      {  
+         "source":137,
+         "target":83,
+         "weight":100
+      },
+      {  
+         "source":73,
+         "target":87,
+         "weight":100
+      },
+      {  
+         "source":71,
+         "target":87,
+         "weight":100
+      },
+      {  
+         "source":98,
+         "target":87,
+         "weight":100
+      },
+      {  
+         "source":19,
+         "target":88,
+         "weight":100
+      },
+      {  
+         "source":72,
+         "target":88,
+         "weight":100
+      },
+      {  
+         "source":96,
+         "target":91,
+         "weight":100
+      },
+      {  
+         "source":94,
+         "target":91,
+         "weight":100
+      },
+      {  
+         "source":74,
+         "target":98,
+         "weight":100
+      },
+      {  
+         "source":71,
+         "target":98,
+         "weight":100
+      },
+      {  
+         "source":11,
+         "target":100,
+         "weight":100
+      },
+      {  
+         "source":60,
+         "target":100,
+         "weight":100
+      },
+      {  
+         "source":146,
+         "target":100,
+         "weight":100
+      },
+      {  
+         "source":104,
+         "target":102,
+         "weight":100
+      },
+      {  
+         "source":147,
+         "target":102,
+         "weight":100
+      },
+      {  
+         "source":19,
+         "target":104,
+         "weight":100
+      },
+      {  
+         "source":34,
+         "target":108,
+         "weight":100
+      },
+      {  
+         "source":122,
+         "target":117,
+         "weight":100
+      },
+      {  
+         "source":27,
+         "target":117,
+         "weight":100
+      },
+      {  
+         "source":38,
+         "target":118,
+         "weight":100
+      },
+      {  
+         "source":56,
+         "target":118,
+         "weight":100
+      },
+      {  
+         "source":119,
+         "target":120,
+         "weight":100
+      },
+      {  
+         "source":77,
+         "target":120,
+         "weight":100
+      },
+      {  
+         "source":27,
+         "target":122,
+         "weight":100
+      },
+      {  
+         "source":96,
+         "target":124,
+         "weight":100
+      },
+      {  
+         "source":29,
+         "target":124,
+         "weight":100
+      },
+      {  
+         "source":42,
+         "target":124,
+         "weight":100
+      },
+      {  
+         "source":142,
+         "target":124,
+         "weight":100
+      },
+      {  
+         "source":73,
+         "target":124,
+         "weight":100
+      },
+      {  
+         "source":41,
+         "target":131,
+         "weight":100
+      },
+      {  
+         "source":112,
+         "target":133,
+         "weight":100
+      },
+      {  
+         "source":137,
+         "target":133,
+         "weight":100
+      },
+      {  
+         "source":27,
+         "target":133,
+         "weight":100
+      },
+      {  
+         "source":41,
+         "target":134,
+         "weight":100
+      },
+      {  
+         "source":37,
+         "target":137,
+         "weight":100
+      },
+      {  
+         "source":71,
+         "target":138,
+         "weight":100
+      },
+      {  
+         "source":124,
+         "target":138,
+         "weight":100
+      },
+      {  
+         "source":123,
+         "target":138,
+         "weight":100
+      },
+      {  
+         "source":96,
+         "target":138,
+         "weight":100
+      },
+      {  
+         "source":140,
+         "target":138,
+         "weight":100
+      },
+      {  
+         "source":12,
+         "target":139,
+         "weight":100
+      },
+      {  
+         "source":34,
+         "target":140,
+         "weight":100
+      },
+      {  
+         "source":46,
+         "target":141,
+         "weight":100
+      },
+      {  
+         "source":12,
+         "target":142,
+         "weight":100
+      },
+      {  
+         "source":77,
+         "target":142,
+         "weight":100
+      },
+      {  
+         "source":48,
+         "target":143,
+         "weight":100
+      },
+      {  
+         "source":120,
+         "target":144,
+         "weight":100
+      },
+      {  
+         "source":37,
+         "target":147,
+         "weight":100
+      },
+      {  
+         "source":137,
+         "target":133,
+         "weight":100
+      },
+      {  
+         "source":137,
+         "target":133,
+         "weight":100
+      }
+   ],
+   "nodes":[  
+      {  
+         "group":"paper",
+         "groupId":406,
+         "id":0,
+         "title":"Identification and physical retrieval of dust storm using three MODIS thermal IR channels",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":405,
+         "id":1,
+         "title":"Improved algorithm for MODIS satellite retrievals of aerosol optical thickness over land in dusty atmosphere: Implications for air quality monitoring in China",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":404,
+         "id":2,
+         "title":"Spatiotemporal patterns of Saharan dust outbreaks in the Mediterranean Basin",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":409,
+         "id":3,
+         "title":"Detection of Asia dust storms using multisensor satellite measurements",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":401,
+         "id":4,
+         "title":"Desert dust observation from space – Application of measured mineral component infrared extinction spectra",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":402,
+         "id":5,
+         "title":"Evaluation of the Moderate-Resolution Imaging Spectroradiometer (MODIS) retrievals of dust aerosol over the ocean during PRIDE",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":403,
+         "id":6,
+         "title":"Aerosols and surface UV products from Ozone Monitoring Instrument observations: An overview",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":407,
+         "id":7,
+         "title":"Asian Dust Storm Monitoring Combining Terra and Aqua MODIS SRB Measurements",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":408,
+         "id":8,
+         "title":"Differentiating airborne dust from cirrus clouds using MODIS data",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":410,
+         "id":9,
+         "title":"Dust detection over desert surfaces with thermal infrared bands using dynamic reference brightness temperature differences",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":413,
+         "id":10,
+         "title":"The spectral radiative signature of wind-blown mineral dust: Implications for remote sensing in the thermal IR region",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":64,
+         "id":11,
+         "title":"The effect and correction of aerosol forward scattering on retrieval of aerosol optical depth from Sun photometer measurements",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":32,
+         "id":12,
+         "title":"Identification of a new dust-stratocumulus indirect effect over the tropical North Atlantic",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":40,
+         "id":13,
+         "title":"A sub-basin scale dust plume source frequency inventory for southern Africa, 2005-2008",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":66,
+         "id":14,
+         "title":"Dust transport from non-East Asian sources to the North Pacific",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":14,
+         "id":15,
+         "title":"A solar escalator on Mars: Self-lifting of dust layers by radiative heating",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":79,
+         "id":16,
+         "title":"Glaciation temperatures of convective clouds ingesting desert dust, air pollution and smoke from forest fires",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":33,
+         "id":17,
+         "title":"Separation of aerosol fine- and coarse-mode radiative properties: Effect on the mineral dust longwave, direct radiative forcing",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":97,
+         "id":18,
+         "title":"Retrieving the composition and concentration of aerosols over the Indo-Gangetic basin using CALIOP and AERONET data",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":15,
+         "id":19,
+         "title":"Dust-rainfall feedback in West African Sahel",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":41,
+         "id":20,
+         "title":"Global analysis of aerosol properties above clouds",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":65,
+         "id":21,
+         "title":"Record heavy mineral dust outbreaks over Korea in 2010: Two cases observed with multiwavelength aerosol/depolarization/Raman-quartz lidar",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":34,
+         "id":22,
+         "title":"Laboratory chamber measurements of the longwave extinction spectra and complex refractive indices of African and Asian mineral dusts",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":42,
+         "id":23,
+         "title":"Natural aerosol-climate feedbacks suppressed by anthropogenic aerosol",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":3,
+         "id":24,
+         "title":"Aerosol data assimilation using data from Himawari-8, a next-generation geostationary meteorological satellite",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":16,
+         "id":25,
+         "title":"Long-range transport across the Atlantic in summertime does not enhance the hygroscopicity of African mineral dust",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":99,
+         "id":26,
+         "title":"Evidence of the aerosol core-shell mixing state over Europe during the heat wave of summer 2003 by using CHIMERE simulations and AERONET inversions",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":53,
+         "id":27,
+         "title":"Direct radiative effects of an unseasonal dust storm at a western Indo Gangetic Plain station Delhi in ultraviolet, shortwave, and longwave regions",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":69,
+         "id":28,
+         "title":"Effect of spectral-dependent surface albedo on Saharan dust direct radiative forcing",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":17,
+         "id":29,
+         "title":"Dust fluxes and iron fertilization in Holocene and Last Glacial Maximum climates",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":54,
+         "id":30,
+         "title":"Iron speciation in aerosol dust influences iron bioavailability over glacial-interglacial timescales",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":82,
+         "id":31,
+         "title":"Sensitivity of aerosol to assumed optical properties over Asia using a global aerosol model and AERONET",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":35,
+         "id":32,
+         "title":"Positive response of Indian summer rainfall to Middle East dust",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":44,
+         "id":33,
+         "title":"Low Arabian dust extinction-to-backscatter ratio",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":5,
+         "id":34,
+         "title":"The role of the atmospheric electric field in the dust-lifting process",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":18,
+         "id":35,
+         "title":"How well do simulated last glacial maximum tropical temperatures constrain equilibrium climate sensitivity?",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":92,
+         "id":36,
+         "title":"On the availability of uncoated mineral dust ice nuclei in cold cloud regions",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":55,
+         "id":37,
+         "title":"Satellite observations of desert dust-induced Himalayan snow darkening",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":37,
+         "id":38,
+         "title":"Impact of assimilated and interactive aerosol on tropical cyclogenesis",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":71,
+         "id":39,
+         "title":"Top-down estimate of dust emissions through integration of MODIS and MISR aerosol retrievals with the GEOS-Chem adjoint model",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":19,
+         "id":40,
+         "title":"Seasonal variability of heterogeneous ice formation in stratiform clouds over the Amazon Basin",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":6,
+         "id":41,
+         "title":"Ice-nucleating particle emissions from photochemically aged diesel and biodiesel exhaust",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":84,
+         "id":42,
+         "title":"Contrasting the impact of aerosols at northern and southern midlatitudes on heterogeneous ice formation",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":56,
+         "id":43,
+         "title":"The importance of the diurnal cycle of Aerosol Optical Depth in West Africa",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":38,
+         "id":44,
+         "title":"Tracking the Saharan Air Layer with shipborne lidar across the tropical Atlantic",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":93,
+         "id":45,
+         "title":"Does dust change the clear sky top of atmosphere shortwave flux over high surface reflectance regions?",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":72,
+         "id":46,
+         "title":"Can Asian dust trigger phytoplankton blooms in the oligotrophic northern South China Sea?",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":7,
+         "id":47,
+         "title":"Paleodust variability since the Last Glacial Maximum and implications for iron inputs to the ocean",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":20,
+         "id":48,
+         "title":"Extreme detached dust layers near Martian volcanoes: Evidence for dust transport by mesoscale circulations forced by high topography",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":57,
+         "id":49,
+         "title":"Size-resolved adjoint inversion of Asian dust",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":39,
+         "id":50,
+         "title":"Source apportionment of aerosol iron in the marine environment using iron isotope analysis",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":85,
+         "id":51,
+         "title":"Atmospheric non-spherical particles optical properties from UV-polarization lidar and scattering matrix",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":21,
+         "id":52,
+         "title":"Impact of soil moisture on dust outbreaks in East Asia: Using satellite and assimilation data",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":74,
+         "id":53,
+         "title":"Observational bounds on atmospheric heating by aerosol absorption: Radiative signature of transatlantic dust",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":8,
+         "id":54,
+         "title":"Comparison of aerosol optical properties above clouds between POLDER and AeroCom models over the South East Atlantic Ocean during the fire season",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":58,
+         "id":55,
+         "title":"Soil-derived sulfate in atmospheric dust particles at Taklimakan desert",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":86,
+         "id":56,
+         "title":"Intercomparison of aerosol climatologies for use in a regional climate model over Europe",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":22,
+         "id":57,
+         "title":"Effects of crystallographic properties on the ice nucleation properties of volcanic ash particles",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":76,
+         "id":58,
+         "title":"Implications of extinction due to meteoritic smoke in the upper stratosphere",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":87,
+         "id":59,
+         "title":"Evaluating the impact of assimilating CALIOP-derived aerosol extinction profiles on a global mass transport model",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":59,
+         "id":60,
+         "title":"Assessment of error in aerosol optical depth measured by AERONET due to aerosol forward scattering",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":10,
+         "id":61,
+         "title":"Contribution of airborne microbes to bacterial production and N-2 fixation in seawater upon aerosol deposition",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":88,
+         "id":62,
+         "title":"Recent increase in black carbon concentrations from a Mt. Everest ice core spanning 1860-2000 AD",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":51,
+         "id":63,
+         "title":"The semidiurnal tide in the middle atmosphere of Mars",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":77,
+         "id":64,
+         "title":"Shortwave radiative closure experiment and direct forcing of dust aerosol over northwestern China",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":23,
+         "id":65,
+         "title":"Crystallization and immersion freezing ability of oxalic and succinic acid in multicomponent aqueous organic aerosol particles",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":60,
+         "id":66,
+         "title":"Evidence of ENSO mega-drought triggered collapse of prehistory Aboriginal society in northwest Australia",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":30,
+         "id":67,
+         "title":"The worst North American drought year of the last millennium: 1934",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":89,
+         "id":68,
+         "title":"Net radiative effect of dust aerosols from satellite measurements over Sahara",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":11,
+         "id":69,
+         "title":"Influence of anthropogenic aerosol deposition on the relationship between oceanic productivity and warming",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":61,
+         "id":70,
+         "title":"The influence of the SAL and lightning on tropospheric ozone variability over the Northern Tropical Atlantic: Results from Cape Verde during 2010",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":62,
+         "id":71,
+         "title":"Impacts of chemical reactivity on ice nucleation of kaolinite particles: A case study of levoglucosan and sulfuric acid",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":12,
+         "id":72,
+         "title":"The importance of Harmattan surges for the emission of North African dust aerosol",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":63,
+         "id":73,
+         "title":"Quantifying the impact of dust on heterogeneous ice generation in midlevel supercooled stratiform clouds",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":13,
+         "id":74,
+         "title":"Revisiting ice nucleation from precipitation samples",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":329,
+         "id":75,
+         "title":"Characterization of aerosols over ocean from POLDER/ADEOS-1",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":332,
+         "id":76,
+         "title":"Cooler sea surface west of the Sahara Desert correlated to dust events",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":139,
+         "id":77,
+         "title":"Contrasting the 2007 and 2005 hurricane seasons: Evidence of possible impacts of Saharan dry air and dust on tropical cyclone activity in the Atlantic basin",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":215,
+         "id":78,
+         "title":"The role of convective plumes and vortices on the global aerosol budget",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":256,
+         "id":79,
+         "title":"Longwave radiative forcing of Saharan dust aerosols estimated from MODIS, MISR, and CERES observations on Terra",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":177,
+         "id":80,
+         "title":"Organic carbon in Antarctic snow",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":343,
+         "id":81,
+         "title":"NONSPHERICITY OF DUST-LIKE TROPOSPHERIC AEROSOLS - IMPLICATIONS FOR AEROSOL REMOTE-SENSING AND CLIMATE MODELING",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":128,
+         "id":82,
+         "title":"Climate effect of dust aerosol in southern Chinese Loess Plateau over the last 140,000 years",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":292,
+         "id":83,
+         "title":"Enhanced aerosol loading over Arabian Sea during the pre-monsoon season: Natural or anthropogenic?",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":216,
+         "id":84,
+         "title":"Atmospheric controls on mineral dust emission from the Bodele Depression, Chad: The role of the low level jet",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":400,
+         "id":85,
+         "title":"Ability of multiangle remote sensing observations to identify and distinguish mineral dust types: 2. Sensitivity over dark water",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":258,
+         "id":86,
+         "title":"An ice core indicator of Antarctic sea ice production?",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":129,
+         "id":87,
+         "title":"Effects of sulfuric acid and ammonium sulfate coatings on the ice nucleation properties of kaolinite particles",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":368,
+         "id":88,
+         "title":"An analysis of aeolian dust in climate models",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":293,
+         "id":89,
+         "title":"Detection of aerosol types over the East China Sea near Japan from four-channel satellite data",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":357,
+         "id":90,
+         "title":"A simulation of the effect of climate change-induced desertification on mineral dust aerosol",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":217,
+         "id":91,
+         "title":"Aerosol invigoration and restructuring of Atlantic convective clouds",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":142,
+         "id":92,
+         "title":"Surface wind accuracy for modeling mineral dust emissions: Comparing two regional models in a Bodele case study",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":218,
+         "id":93,
+         "title":"Features in wavelength dependence of aerosol absorption observed over central India",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":179,
+         "id":94,
+         "title":"Wind reduction by aerosol particles",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":294,
+         "id":95,
+         "title":"Heterogeneous and catalytic uptake of ozone on mineral oxides and dusts: A Knudsen cell investigation",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":143,
+         "id":96,
+         "title":"Possible linkages between Saharan dust and tropical cyclone rain band invigoration in the eastern Atlantic during NAMMA-06",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":260,
+         "id":97,
+         "title":"A consolidated technique for enhancing desert dust storms with MODIS",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":358,
+         "id":98,
+         "title":"Chemical processing does not always impair heterogeneous ice nucleation of mineral dust particles",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":219,
+         "id":99,
+         "title":"A method to infer short wave absorption due to aerosols using satellite remote sensing",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":295,
+         "id":100,
+         "title":"Non-spherical aerosol retrieval method employing light scattering by spheroids",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":261,
+         "id":101,
+         "title":"Factors controlling atmospheric fluxes of Be-7 and Pb-210 in northern Taiwan",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":359,
+         "id":102,
+         "title":"Observational relationships between aerosol and Asian monsoon rainfall, and circulation",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":181,
+         "id":103,
+         "title":"Chemistry of aerosols over a semi-arid region: Evidence for acid neutralization by mineral dust",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":132,
+         "id":104,
+         "title":"Dust aerosol impact on regional precipitation over western Africa, mechanisms and sensitivity to absorption properties",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":296,
+         "id":105,
+         "title":"Importance of shapes and compositions of wind-blown dust particles for remote sensing at solar wavelengths",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":263,
+         "id":106,
+         "title":"Remote sensing of vertical distributions of smoke aerosol off the coast of Africa",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":361,
+         "id":107,
+         "title":"Satellite observations cap the atmospheric organic aerosol budget",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":183,
+         "id":108,
+         "title":"Climate response and radiative forcing from mineral aerosols during the last glacial maximum, pre-industrial, current and doubled-carbon dioxide climates",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":221,
+         "id":109,
+         "title":"Aerosol optical depths and direct radiative perturbations by species and source type",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":146,
+         "id":110,
+         "title":"Aerosol radiative forcing and climate sensitivity deduced from the last glacial maximum to Holocene transition",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":264,
+         "id":111,
+         "title":"Long distance transport of pollen to Greenland",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":133,
+         "id":112,
+         "title":"Implications of particle composition and shape to dust radiative effect: A case study from the Great Indian Desert",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":222,
+         "id":113,
+         "title":"Implications of droplet nucleation to mineral dust aerosol deposition and transport",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":148,
+         "id":114,
+         "title":"What does temporal variability in aeolian dust deposition contribute to sea-surface iron and chlorophyll distributions?",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":298,
+         "id":115,
+         "title":"Heterogeneous nucleation of ice in (NH4)(2)SO4-H2O particles with mineral dust immersions",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":366,
+         "id":116,
+         "title":"Descending particles: From the atmosphere to the deep ocean-A time series study in the subtropical NE Atlantic",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":266,
+         "id":117,
+         "title":"Observations of large aerosol infrared forcing at the surface",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":223,
+         "id":118,
+         "title":"Influence of aerosol climatology on forecasts of the African Easterly Jet",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":185,
+         "id":119,
+         "title":"Strong capping inversion over the Tokyo metropolitan area associated with airborne Asian dust",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":224,
+         "id":120,
+         "title":"Suppression of deep convection over the tropical North Atlantic by the Saharan Air Layer",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":136,
+         "id":121,
+         "title":"Dust radiative feedback on Saharan boundary layer dynamics and dust mobilization",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":150,
+         "id":122,
+         "title":"Observations of enhanced aerosol longwave radiative forcing over an urban environment",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":186,
+         "id":123,
+         "title":"Satellite-based assessment of possible dust aerosols semi-direct effect on cloud water path over East Asia",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":268,
+         "id":124,
+         "title":"Saharan dust storms and indirect aerosol effects on clouds: CRYSTAL-FACE results",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":137,
+         "id":125,
+         "title":"Relative humidity anneal effect on hygroscopicity of aerosol particles studied by rapid-scan FTIR-ATR spectroscopy",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":301,
+         "id":126,
+         "title":"TOMS and METEOSAT satellite records of the variability of Saharan dust transport over the Atlantic during the last two decades (1979-1997)",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":138,
+         "id":127,
+         "title":"Ground-based measurements of airborne Saharan dust in marine environment during the NAMMA field experiment",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":227,
+         "id":128,
+         "title":"Profile observations of the Saharan air layer during AEROSE 2004",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":303,
+         "id":129,
+         "title":"Coupling between cycles of phytoplankton biomass and aerosol optical depth as derived from SeaWiFS time series in the Subantarctic Southern Ocean",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":152,
+         "id":130,
+         "title":"Surface shortwave radiative forcing of different aerosol types in the central Mediterranean",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":101,
+         "id":131,
+         "title":"Hygroscopicity and cloud droplet activation of mineral dust aerosol",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":271,
+         "id":132,
+         "title":"North American, Asian, and Indian haze: Similar regional impacts on climate?",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":228,
+         "id":133,
+         "title":"Regional distribution of absorbing efficiency of dust aerosols over India and adjacent continents inferred using satellite remote sensing",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":304,
+         "id":134,
+         "title":"A glaciation indirect aerosol effect caused by soot aerosols",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":306,
+         "id":135,
+         "title":"One Martian year of atmospheric observations by the Thermal Emission Spectrometer",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":308,
+         "id":136,
+         "title":"Baseline maritime aerosol: methodology to derive the optical thickness and scattering properties",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":153,
+         "id":137,
+         "title":"South Asian dust episode in June 2006: Aerosol observations in the central Himalayas",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":102,
+         "id":138,
+         "title":"African dust aerosols as atmospheric ice nuclei",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":272,
+         "id":139,
+         "title":"Mineral aerosol and cloud interactions",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":190,
+         "id":140,
+         "title":"Enhancement of the emission of mineral dust aerosols by electric forces",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":273,
+         "id":141,
+         "title":"Atmospheric input of mineral dust to the western North Pacific region based on direct measurements and a regional chemical transport model",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":154,
+         "id":142,
+         "title":"Cooling of the Atlantic by Saharan dust",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":191,
+         "id":143,
+         "title":"Significant vertical water transport by mountain-induced circulations on Mars",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":230,
+         "id":144,
+         "title":"On the radiative effects of dust on tropical convection",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":324,
+         "id":145,
+         "title":"Will aerosol measurements from Terra and Aqua polar orbiting satellites represent the daily aerosol abundance and properties?",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":274,
+         "id":146,
+         "title":"A study of the effect of non-spherical dust particles on the AVHRR aerosol optical thickness retrievals",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":103,
+         "id":147,
+         "title":"Enhanced pre-monsoon warming over the Himalayan-Gangetic region from 1979 to 2007",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":155,
+         "id":148,
+         "title":"Long-term variability in Saharan dust transport and its link to North Atlantic sea surface temperature",
+         "value":30
+      },
+      {  
+         "group":"paper",
+         "groupId":192,
+         "id":149,
+         "title":"Satellite-based assessment of top of atmosphere anthropogenic aerosol radiative forcing over cloud-free oceans",
+         "value":30
+      }
+   ]
+}

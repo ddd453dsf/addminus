@@ -1,0 +1,14 @@
+Technical Debt:
+Publication content page
+flex for mobile for all pages(including the button location)
+9064/publication/analyzeArticleKG: the function of this API?
+
+TAb on the publicatoin/overview page
+
+After first preview, the jquery part of preview doesn't work.(search papers)
+After searching papers, the paper list page needs to be refactored.
+
+After analyse a paragraph, the page breaks down.
+
+View ** under publication tab, the navbar all break down.
+

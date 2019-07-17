@@ -1,0 +1,12 @@
+Sicientist
+1. search papers
+2. search authors
+
+3. register paper only to mongo
+4. analyse a paragraph
+5. api follow is not alive
+6. Full sweet tree and pruned sweet tree update button and select
+7. could not retrieve all the authors
+8. Syntax error, unrecognized expression: span[data-label=gcmddata_Analysis And Visualization]
+
+http://hawking.sv.cmu.edu:7005/paper_recommendations/queryKG?text=dust&node_type=Author&start=2&num_results=20
